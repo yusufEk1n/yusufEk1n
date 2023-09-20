@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yusuf-ekinn/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yusuf-ekin-linkedin" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yusuf-ekin-linkedin" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/yusuf.ekin.3/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="yusuf-ekin-facebook" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="yusuf-ekin-facebook" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/yusufekin34" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" alt="yusuf-ekin-hackerrank" height="30" width="40" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="yusuf-ekin-hackerrank" height="30" width="40" />
   </a>
 </div>
 
