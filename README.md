@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yusuf-ekinn/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yusuf_ekin_linkedin" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yusuf-ekin-linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:ekinn.yusuf56@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="yusuf_ekin_linkedin" height="30" width="40" />
+  <a href="https://www.facebook.com/yusuf.ekin.3/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="yusuf-ekin-facebook" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/yusufekin34" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" alt="yusuf_ekin_linkedin" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" alt="yusuf-ekin-hackerrank" height="30" width="40" />
   </a>
 </div>
 
@@ -22,9 +22,13 @@
 
 ###
 
-<p align="left">Hello my name is yusuf. I'm a backend developer who loves to learn, stay updated and share.
+<h3 align="center">My name is yusuf. I'm a backend developer who loves to learn, stay updated and share.</h3>
 
-📚 I'm currently learning Natural Language Understanding for my thesis.</p>
+###
+
+- 📚 I'm currently learning Natural Language Understanding for my thesis.
+
+- 📫 How to reach me **ekinn.yusuf56@gmail.com**
 
 ###
 
