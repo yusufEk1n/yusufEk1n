@@ -4,12 +4,12 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/yusuf-ekinn/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yusuf-ekin-linkedin" height="30" width="30" style="margin: 0 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
   </a>
   <a href="https://www.hackerrank.com/yusufekin34" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="yusuf-ekin-hackerrank" height="30" width="30" style="margin: 0 6px;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="30" />
   </a>
 </div>
 
